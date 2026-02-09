@@ -1,5 +1,6 @@
 {
-    "project_name": "Example Part",
+    "project_name": "Project Name",
     "project_slug": "{{cookiecutter.project_name.lower().replace(' ', '_')}}",
-    "author": "Hannah Nelson"
+    "author": "Hannah Nelson",
+    "project_short_description": "A parametric description of a part using build123d"
 }
